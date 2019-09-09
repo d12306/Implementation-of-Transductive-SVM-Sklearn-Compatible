@@ -1,1 +1,1 @@
-# Implementation-of-Transductive-SVM-Sklearn-Compatible-
+# Implementation-of-Transductive-SVM-Sklearn-Compatible
